@@ -3,8 +3,9 @@
   html, body {
       font-family: 'Slabo 27px', serif;
       color: #777777;
-      background-color: #efefef;
+
       background: #efefef
+      background-image: url(https://www.fotor.com/images2/features/backgrounds-new/Geometry/Geometry_01_A-small-map.jpg);
   }
 
   a {
